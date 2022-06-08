@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -C -m "SCHOOL"
+file -m school.mgc *
