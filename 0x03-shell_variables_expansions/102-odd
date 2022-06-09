@@ -1,2 +1,2 @@
 #!/bin/bash
-xargs printf "%b\n"
+paste - - | cut -f1
